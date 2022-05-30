@@ -4,9 +4,9 @@ module shapes_demo_typesupport
     {
         struct KeylessShapeType {
             string color;
-        	long x;
-        	long y;
-        	long shapesize;
+            long x;
+            long y;
+            long shapesize;
         };
     };
 };
