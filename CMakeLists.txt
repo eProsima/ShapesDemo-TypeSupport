@@ -15,7 +15,7 @@ if(BUILD_TESTING)
 endif()
 
 set(idl_files
-  "idl/KeylessShapeType.idl"
+  "msg/KeylessShapeType.idl"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}

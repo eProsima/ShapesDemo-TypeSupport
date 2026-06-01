@@ -1,6 +1,6 @@
 module shapes_demo_typesupport
 {
-    module idl
+    module msg
     {
         struct KeylessShapeType {
             string color;
